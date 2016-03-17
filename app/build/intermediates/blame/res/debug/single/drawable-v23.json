@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\John\\AndroidStudioProjects\\SkyNET\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\John\\AndroidStudioProjects\\SkyNET\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\John\\AndroidStudioProjects\\Android project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\John\\AndroidStudioProjects\\Android project\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]
