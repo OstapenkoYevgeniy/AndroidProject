@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SkyNET</string>
+
+    <string name="get_robots">Получить всех роботов</string>
+    <string name="add_robot">Добавить робота</string>
+    <string name="edit_robot">Редактировать робота</string>
+    <string name="search_robot">Искать робота</string>
+
+    <string name="robot_name">Название робота</string>
+    <string name="robot_type">Тип робота</string>
+    <string name="robot_year">Год создания</string>
+
+    <string-array name="robot_types">
+        <item>mechanical</item>
+        <item>droid</item>
+        <item>virtual</item>
+    </string-array>
+
+    <string name="add">Добавить</string>
+    <string name="edit">Редактировать</string>
+    <string name="cancel">Отмена</string>
+
+    <string name="search_text">Введите название робота или его ID</string>
+
+
+</resources>
